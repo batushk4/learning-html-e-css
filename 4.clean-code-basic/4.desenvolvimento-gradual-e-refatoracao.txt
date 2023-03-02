@@ -1,0 +1,12 @@
+### Vantagens do desenvolvimento gradual e refatoração:
+    * Foco energia;
+    * Comprometimento de ir até o fim de pequenos pedaços;
+    * Nos livra da culpa de não terminar nada;
+    * Elimina a confusão de ter que resolver mil coisas ao mesmo tempo;
+    * Chance de refatorar pequenos pedaços do código e deixá-lo limpo;
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+Dar nomes é uma arte. Para que não sejam péssimos nomes, tenha em memte que ele deve ter contexto na hora do código, senão as coisas podem ficar confusas. Ao invés de nomear para um pequeno bloco, tenta ver todo o contexto dele.
+
+
+
+
+
+
+
+

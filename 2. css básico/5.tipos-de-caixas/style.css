@@ -1,0 +1,5 @@
+h1, p {
+    display: inline;
+}
+
+/* Existe as tags que são do tipo inline e block. */

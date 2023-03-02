@@ -1,0 +1,13 @@
+p {
+    margin-top: 30px 15px;
+    /* Padding é o espaçamento interno do elemento */
+    padding: 20px;
+    background-color: aquamarine;
+    border: 20px solid yellowgreen;
+}
+
+h1 {
+    border-style: solid;
+    border-width: 20px;
+    border-top-color: green;
+}

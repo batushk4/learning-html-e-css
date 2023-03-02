@@ -1,0 +1,8 @@
+O git é uma ferramenta de versionamneto de código. O mesmo criado do Linux também criou o git para que fosse open source e de fácil acesso e manuseio.
+
+
+
+
+
+
+

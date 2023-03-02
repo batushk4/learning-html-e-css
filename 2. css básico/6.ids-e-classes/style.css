@@ -1,0 +1,16 @@
+/*
+ID é algo único, não pode-se usar o mesmo ID para mais de uma coisa, caso precise usar mais de uma vez, use o class
+
+#descricao {
+    background-color: orange;
+} */
+
+/* ao usar class, prefira colocar um nome genérico, e pode-se ter mais de uma class dentro da mesma tag */
+
+.descricao-produto {
+    background-color: orange;
+}
+
+.promocao {
+    border: solid 10px green ;
+}

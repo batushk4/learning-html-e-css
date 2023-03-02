@@ -1,0 +1,10 @@
+#### Como criar código limpo desde o início?
+    * Planejamento;
+    * Saber dizer não/ não ceder à pressão;
+    * Investir em conhecimento;
+    * Quebrar um problema em pedaços menores;
+
+Lembre-se: o código ruim escrito com pressa pra entregar um projeto no prazo vai voltar pra te assombrar no futuro.
+
+
+

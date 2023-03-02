@@ -1,0 +1,6 @@
+### Regra dos escoteiros
+    * Uma vez que você sai do lugar onde está acampando, deve deixar esse lugar mais limpo do que quando chegou.
+
+** CUIDADO: às vezes não é necessário e nem viável querer refatorar todo o código só porque a gente achou ele ruim.
+
+alt + shift + f = comando pra formatar/identar um documento

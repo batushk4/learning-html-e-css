@@ -1,0 +1,6 @@
+p {
+    margin-top: 30px 15px;
+    /* Padding é o espaçamento interno do elemento */
+    padding: 10px;
+    background-color: aquamarine;
+}
